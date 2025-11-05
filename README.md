@@ -1,4 +1,4 @@
-#Digital Transformation Excel Analytics Project
+Digital Transformation Excel Analytics Project
 This project presents a comprehensive business data analysis built on a real-world digital transformation dataset, focusing on how modern technologies impact revenue, efficiency, and customer engagement across industries and regions. All data cleaning, summarization, and reporting were accomplished using advanced Excel techniques.
 
 Project Highlights
